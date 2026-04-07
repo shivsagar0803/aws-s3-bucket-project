@@ -57,13 +57,13 @@ This project demonstrates how to create an Amazon S3 bucket and upload an object
 ## 📸 Screenshots
 
 ### Bucket Created
-![Bucket](Screenshot 2026-04-06 200119.png)
+![Bucket](Bucket%20Created.png)
 
 ### File Upload
-![Upload](Screenshot 2026-04-06 200337.png)
+![Upload](File%20Upload.png)
 
 ### Access Denied
-![Access](Screenshot 2026-04-06 201033.png)
+![Access](Access%20Denied.png)
 
 ---
 
